@@ -1,0 +1,59 @@
+html {background-color: aliceblue;}
+#logo {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 40px; 
+    height: auto;
+  }
+.header {
+    text-align: center;
+    color: darkblue;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button {
+    list-style: none;
+    text-align: center;
+    background-color: aliceblue; 
+    color: cornflowerblue;
+    margin-right: 200px;
+    width: 150px;
+    line-height: 60px;
+  }
+.link1  {
+    color: greenyellow;
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.link2 {
+    background-color: aliceblue;
+    font-size: 60px;
+    font-family: fantasy;
+    
+}
+.link3 {
+    background-color: yellow;
+    text-align: right;
+    font-weight: bolder;
+    font-size: 200px;
+}
+.subheader {
+    font-family: 'Comic Sans MS';
+    color: blueviolet;
+    background-color: aliceblue;
+}
+.subsub {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+}
+
+.lasagna {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    } 
